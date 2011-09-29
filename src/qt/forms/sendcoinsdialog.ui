@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Send TBX</string>
+   <string>Send FBX</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
@@ -110,7 +110,7 @@
         </font>
        </property>
        <property name="text">
-        <string>Enter a Tenebrix address (e.g. tJNrBA3j92GcU3yon7mhmKAUVyUeRYaHMD)</string>
+        <string>Enter a Fairbrix address (e.g. tJNrBA3j92GcU3yon7mhmKAUVyUeRYaHMD)</string>
        </property>
       </widget>
      </item>
